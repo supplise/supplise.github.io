@@ -1,6 +1,6 @@
 # header links
 header:
-  - title: "Features"
+  - title: "바로가기"
     url: "/features/"
     description: "List of features in the theme"
   - title: "Source"
