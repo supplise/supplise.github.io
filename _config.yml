@@ -17,9 +17,9 @@ title: "나의 성장일기"
 description: "since 2021-03-20"
 url: "https://supplise.github.io" # site url e.g. "https://manid2.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-author: mani_d2
+author:supplise
 twitter:
-  username: mani_d2 # should be site's username
+  username: supplise # should be site's username
   card: summary
 logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
 # use below when there are social links for site
