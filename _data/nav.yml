@@ -1,7 +1,7 @@
 # header links
 header:
-  - title: "바로가기"
-    url: "/features/"
+  - title: "공학"
+    url: "/Engineering/"
     description: "List of features in the theme"
   - title: "Source"
     url: "/source/"
