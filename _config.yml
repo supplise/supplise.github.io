@@ -17,7 +17,7 @@ title: "나의 성장일기"
 description: "since 2021-03-20"
 url: "https://supplise.github.io" # site url e.g. "https://manid2.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-author:supplise
+author: supplise
 twitter:
   username: supplise # should be site's username
   card: summary
