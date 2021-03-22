@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Write your about story.
+what the hell!
