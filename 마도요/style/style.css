@@ -20,7 +20,7 @@ body,html{
 .text_box span{
     position: absolute;
     top:calc(50% - 50px);
-    left:calc(50% - 264px);
+    left:calc(50% - 40px);
 }
 .btn{
     position: fixed;
@@ -42,5 +42,5 @@ body,html{
 .btn span{
     position:absolute;
     top:calc(50% - 20px);
-    left: calc(50% - 192px);
+    left: calc(50% - 20px);
 }
